@@ -14,7 +14,7 @@ The model is trained and tested on the data set from the [Kaggle Facial Expressi
 - Opencv
 - Keras
 
-# Runn the model
+# Run the model
 To run the code-  
 
 1- Download the project by writing the following command on git bash
